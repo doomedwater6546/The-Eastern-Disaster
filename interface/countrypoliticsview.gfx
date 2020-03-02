@@ -452,18 +452,14 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_marxism_group"
-		texturefile = "gfx/interface/ideologies/marxism_group.tga"
+		name = "GFX_ideology_marxist_group"
+		texturefile = "gfx/interface/ideologies/marxist_group.tga"
 	}
 
 	spriteType = {
 		name = "GFX_ideology_libertarian_socialism_group"
 		texturefile = "gfx/interface/ideologies/libertarian_socialism_group.tga"
-	}
 
-	spriteType = {
-		name = "GFX_ideology_laborist_group"
-		texturefile = "gfx/interface/ideologies/laborist.tga"
 	}
 
 	spriteType = {
@@ -472,8 +468,9 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_social_liberal_group"
-		texturefile = "gfx/interface/ideologies/social_liberal_group.tga"
+		name = "GFX_ideology_liberalist_group"
+		texturefile = "gfx/interface/ideologies/
+		liberalist_group.tga"
 	}
 
 	spriteType = {
