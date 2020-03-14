@@ -4,9 +4,6 @@ AST_DD_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_DESTROYERS
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -54,9 +51,6 @@ AST_CL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -76,9 +70,6 @@ AST_CA_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CA
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -98,9 +89,6 @@ AST_BB_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -119,9 +107,6 @@ AST_BC_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BC
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -140,9 +125,6 @@ AST_CV_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CARRIERS
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -162,9 +144,6 @@ AST_SS_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_SUBMARINES
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -181,11 +160,6 @@ AST_SS_HISTORICAL = {
 ### THEME: AUSTRALIAN PROVINCES ###
 AST_STATES = {
 	name = NAME_THEME_STATES
-
-	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -203,9 +177,6 @@ AST_CITIES = {
 	name = NAME_THEME_CITIES
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -223,9 +194,6 @@ AST_TRIBES = {
 	name = NAME_THEME_TRIBES
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -245,9 +213,6 @@ AST_ANIMALS = {
 	name = NAME_THEME_ANIMALS
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -282,9 +247,6 @@ AST_DD_COMMUNIST = {
 	name = NAME_THEME_HISTORICAL_DESTROYERS
 
 	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
 	}
 
 	type = ship
@@ -305,9 +267,6 @@ AST_DE_COMMUNIST = {
 	name = NAME_THEME_HISTORICAL_DE
 
 	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
 	}
 
 	type = ship
@@ -332,9 +291,6 @@ AST_CL_COMMUNIST = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
 	}
 
 	type = ship
@@ -354,9 +310,6 @@ AST_CA_COMMUNIST = {
 	name = NAME_THEME_HISTORICAL_CA
 
 	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
 	}
 
 	type = ship
@@ -376,9 +329,6 @@ AST_BB_COMMUNIST = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
 	}
 
 	type = ship
@@ -397,9 +347,6 @@ AST_BC_COMMUNIST = {
 	name = NAME_THEME_HISTORICAL_BC
 
 	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
 	}
 
 	type = ship
@@ -418,9 +365,6 @@ AST_CV_COMMUNIST = {
 	name = NAME_THEME_HISTORICAL_CARRIERS
 
 	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
 	}
 
 	type = ship
@@ -439,9 +383,6 @@ AST_CITIES = {
 	name = NAME_THEME_CITIES
 
 	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
 	}
 
 	type = ship
@@ -458,10 +399,7 @@ AST_CITIES = {
 AST_TRIBES = {
 	name = NAME_THEME_TRIBES
 
-	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
+	for_countries = { AST }S
 	}
 
 	type = ship
@@ -481,9 +419,6 @@ AST_ANIMALS_COMMUNIST = {
 	name = NAME_THEME_ANIMALS
 
 	for_countries = { AST }
-
-	can_use = { 
-		has_government = communism
 	}
 
 	type = ship
