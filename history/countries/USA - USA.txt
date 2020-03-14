@@ -81,20 +81,6 @@ give_guarantee = URG
 		new_deal
 	}
 
-	#focuses
-	unlock_national_focus = USA_wpa
-	unlock_national_focus = USA_war_propaganda
-	unlock_national_focus = USA_prepare_intervention
-	complete_national_focus = USA_military_construction
-	complete_national_focus = USA_air_war_plans_division
-	complete_national_focus = USA_reinforce_monroe_doctrine
-	complete_national_focus = USA_bureau_of_ships
-	complete_national_focus = USA_escort_effort
-	complete_national_focus = USA_amphibious_operations
-	complete_national_focus = USA_expand_the_USMC
-	complete_national_focus = USA_convoy_tactics
-	complete_national_focus = USA_fund_the_navy
-
 	set_global_flag = earhart_disappeared
 	oob = "USA_1939"
 	set_technology = {
