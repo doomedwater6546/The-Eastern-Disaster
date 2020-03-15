@@ -5,10 +5,6 @@ ENG_DD_HISTORICAL = {
 
 	for_countries = { ENG }
 
-	can_use = {
-		not = { has_government = communism }
-	}
-
 	type = ship
 	ship_types = { ship_hull_light destroyer }			
 
@@ -173,9 +169,6 @@ ENG_MINELAYERS_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_MINELAYERS
 
 	for_countries = { ENG }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
