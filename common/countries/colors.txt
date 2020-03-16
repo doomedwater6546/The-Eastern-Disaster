@@ -707,7 +707,6 @@ ALG = {
     color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 } 
-
 MOR
     color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
