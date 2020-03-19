@@ -469,8 +469,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_ideology_liberalist_group"
-		texturefile = "gfx/interface/ideologies/
-		liberalist_group.tga"
+		texturefile = "gfx/interface/ideologies/liberalist_group.tga"
 	}
 
 	spriteType = {

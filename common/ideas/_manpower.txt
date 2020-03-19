@@ -106,6 +106,7 @@ ideas = {
 						has_dlc = "La Resistance"
 				}
 			}
+			}
 
 			modifier = {
 				conscription = 0.025
