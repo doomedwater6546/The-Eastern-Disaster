@@ -132,9 +132,6 @@ POL_THEME_KINGS = {
 	name = NAME_THEME_KINGS
 
 	for_countries = { POL }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship

@@ -34,8 +34,6 @@ ideas = {
 						has_dlc = "Death or Dishonor"
 					}
 				}
-				NOT = { has_idea = undisturbed_isolation }
-				NOT = { has_idea = isolation }
 			}
 
 			ai_will_do = {
@@ -65,8 +63,6 @@ ideas = {
 			available = {
 				#has_manpower_for_recruit_change_to =  { value = 0.025 group = mobilization_laws }
 				has_war_support > 0.1
-				NOT = { has_idea = undisturbed_isolation }
-				NOT = { has_idea = isolation }
 				if = {
 					limit = {
 						original_tag = AST
@@ -93,31 +89,10 @@ ideas = {
 						has_dlc = "Death or Dishonor"
 					}
 				}
-				if = {
-					limit = {
-						original_tag = ENG
-						has_dlc = "Man the Guns"
-					}
-					NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
-				}
-				if = {
-					limit = {
-						original_tag = SPR
-						has_dlc = "La Resistance"
-				}
-			}
-			}
+						}
 
 			modifier = {
 				conscription = 0.025
-			}
-
-			ai_will_do = {
-   				factor = 1
-				modifier = {
-					#Prio if low on manpower
-					factor = 20
-					manpower_per_military_factory <  1000
 				}
 			}
 			
@@ -146,9 +121,6 @@ ideas = {
 					limit = {
 						original_tag = AST
 						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
 				}				
 				if = {
 					limit = {
@@ -174,8 +146,6 @@ ideas = {
 					limit = {
 						original_tag = ENG
 						has_dlc = "Man the Guns"
-					}
-					NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
 				}
 				if = {
 					limit = {
@@ -241,9 +211,6 @@ ideas = {
 					limit = {
 						original_tag = AST
 						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
 				}
 
 				if = {
@@ -257,7 +224,6 @@ ideas = {
 						original_tag = RAJ
 						has_dlc = "Together for Victory"
 					}
-					is_subject = no
 				}
 
 				if = {
@@ -279,47 +245,6 @@ ideas = {
 						has_dlc = "La Resistance"
 					}
 				}
-			}
-
-			ai_will_do = {
-   				factor = 1
-				modifier = {
-					#Prio if low on manpower
-					factor = 20
-					manpower_per_military_factory <  700
-				}
-				modifier = {
-					#Lower chance if has decent amount
-					factor = 0.5
-					manpower_per_military_factory >  1000
-				}
-				modifier = {
-					#Block has plenty manpower
-					factor = 0
-					NOT = { tag = CHI }
-					NOT = { tag = SOV }
-					manpower_per_military_factory >  3000
-				}
-
-				modifier = { # china relies a lot on throwing bodies at the enemy
-					factor = 3
-
-					tag = CHI
-					has_manpower < 200000
-				}
-
-				modifier = { # germany needs this before russia, badly
-					factor = 10
-
-					original_tag = GER
-					has_manpower < 2000000
-				}
-				modifier = {
-					factor = 1000
-					original_tag = SOV
-					check_variable = { manpower_k < 3000 }
-				}
-
 			}
 			
 			cost = 150
@@ -462,14 +387,6 @@ ideas = {
 				#		tag = ROOT 
 				#		ratio > 1
 				#	}
-				#}
-				if = {
-					limit = {
-						original_tag = AST
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
 				}
 
 				if = {

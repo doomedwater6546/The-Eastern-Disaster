@@ -37,8 +37,6 @@ KOR_INF_01 =
 
 	for_countries = { KOR }
 
-	can_use = {	Not = { has_government = communism } }
-
 	division_types = { "infantry" }
 
 	# Number reservation system will tie to another group.
@@ -637,8 +635,6 @@ KOR_MAR_01 =
 	name = "Marine Divisions"
 
 	for_countries = { KOR }
-
-	can_use = { not = { has_government = communism } }
 
 	division_types = { "marine" }
 

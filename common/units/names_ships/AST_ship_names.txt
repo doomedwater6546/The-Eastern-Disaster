@@ -24,9 +24,6 @@ AST_DE_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_DE
 
 	for_countries = { AST }
-
-	can_use = { 
-		not = { has_government = communism }
 	}
 
 	type = ship
@@ -399,7 +396,7 @@ AST_CITIES = {
 AST_TRIBES = {
 	name = NAME_THEME_TRIBES
 
-	for_countries = { AST }S
+	for_countries = { AST }
 	}
 
 	type = ship
