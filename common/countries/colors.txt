@@ -705,7 +705,7 @@ SHL = {
 }
 ALG = {
     color = rgb { 57 113 228 }
-	color_ui = rgb { 74 147 255 }
+	color_ui = rgb { 74 147 255 }	
 } 
 MOR = {
     color = rgb { 57 113 228 }
@@ -715,49 +715,49 @@ SEN
     color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
-GAB
+GAB = {
     color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
-MAD
+MAD = {
     color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
 
-TUN
+TUN = {
     color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
-NGA
+NGA = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-QAT
+QAT = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
 
-KEN
+KEN = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-ZAM
+ZAM = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-ZIM
+ZIM = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-CMR
+CMR = {
 	color = rgb { 115 115 115 }
 	color_ui = rgb { 122 145 93 }
 }
-TZN
+TZN = {
 	color = rgb { 115 115 115 }
 	color_ui = rgb { 122 145 93 }
 }
-NMB
+NMB = {
 	color = rgb { 115 115 115 }
 	color_ui = rgb { 122 145 93 }
 }
