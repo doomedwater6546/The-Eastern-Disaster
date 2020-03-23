@@ -1,0 +1,11 @@
+HOL_de_crisisjaren_level_down = {
+	#
+}
+
+HOL_shell_shocked_spectator_level_down = {
+	#
+}
+
+HOL_domestic_jet_engine_designs_level_up = {
+	#
+}

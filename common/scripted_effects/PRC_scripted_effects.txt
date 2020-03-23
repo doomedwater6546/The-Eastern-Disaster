@@ -1,0 +1,20 @@
+PRC_execute_infiltration_effects_for_PREV = {
+	#
+}
+
+PRC_infiltration_succesful_show_uprising_effect = {
+	#
+}
+
+
+PRC_low_popular_support_level_up = {
+	#
+}
+
+PRC_low_popular_support_level_down = {
+	#
+}
+
+PRC_transfer_negative_spirits = {
+	#
+}

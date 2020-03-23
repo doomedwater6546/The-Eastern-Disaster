@@ -1,0 +1,54 @@
+# Reduce Mosley's pacifism
+ENG_mosley_pacifism_level_down = {
+	#
+}
+
+# Increase Imperial Defense spirit
+ENG_imperial_conference_defense_level_up = {
+	#
+}
+
+# Increase Imperial Economy spirit
+ENG_imperial_conference_economy_level_up = {
+	#
+}
+
+# Set amount of subjects in variable
+ENG_imperial_conference_set_subject_counter = {
+	#
+}
+
+# Clear Imperial Conference flags
+ENG_imperial_conference_clear_in_progress_flags = {
+	#
+}
+
+# Increase Trade Union Support costs
+ENG_request_trade_union_support_cost_level_up = {
+	#
+}
+
+# Decrease Trade Union Support costs
+ENG_request_trade_union_support_cost_level_down = {
+	#
+}
+
+CAN_enforce_loyalty = {
+	#
+}
+
+SAF_enforce_loyalty = {
+	#
+}
+
+RAJ_enforce_loyalty = {
+	#
+}
+
+AST_enforce_loyalty = {
+	#
+}
+
+NZL_enforce_loyalty = {
+	#
+}

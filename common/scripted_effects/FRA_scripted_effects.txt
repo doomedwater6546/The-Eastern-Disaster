@@ -1,0 +1,49 @@
+remove_worker_shortage_effect = {	
+	#
+}
+
+remove_occupation_cost_effect = {
+	#
+}
+
+reduce_occupation_cost_effect = {
+	#
+}
+
+increase_occupation_cost_effect = {
+	#
+}
+
+FRA_congress_of_paris_italian_claims_setup_effect = {
+	#
+}
+
+FRA_congress_of_paris_portugese_claims_setup_effect = {
+	#
+}
+
+FRA_right_wing_riot_effect = {
+	#
+}
+FRA_communism_riot_effect = {
+	#
+}
+
+FRA_transfer_indochina_effect = {
+	#
+}
+
+FRA_transfer_syria_effect = {
+	#
+}
+
+FRA_transfer_north_africa_effect = {
+	#
+}
+
+FRA_transfer_central_africa_effect = {
+	#
+}
+FRA_transfer_western_africa_effect = {
+	#
+}

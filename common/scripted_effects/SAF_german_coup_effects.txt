@@ -1,0 +1,27 @@
+SAF_send_equipment_flag_counter = {
+	#
+}
+
+SAF_german_coup_equipment_GER_fighters_20 = {
+	#
+}
+
+SAF_german_coup_equipment_GER_light_tank_20 = {
+	#
+}
+
+SAF_german_coup_inf_GER_equipment_200 = {
+	#
+}
+
+SAF_german_coup_equipment_HOL_fighters_20 = {
+	#
+}
+
+SAF_german_coup_equipment_HOL_light_tank_20 = {
+	#
+}
+
+SAF_german_coup_inf_HOL_equipment_200 = {
+	#
+}

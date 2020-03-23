@@ -1,0 +1,141 @@
+USA_depression_clear_all = {
+	#
+}
+
+USA_great_depression_level_up = {
+	#
+}
+
+USA_great_depression_level_down = {
+	#
+}
+
+USA_congress_get_quorum = {
+	#
+}
+
+USA_congress_remove_state = {
+	#
+}
+
+USA_congress_add_state = {
+	#
+}
+
+USA_congress_small_opposition = {
+	#
+}
+
+USA_senate_small_opposition = {
+	#
+}
+
+USA_house_small_opposition = {
+	#
+}
+
+USA_senate_small_support = {
+	#
+}
+
+USA_house_small_support = {
+	#
+}
+
+USA_senate_medium_opposition = {
+	#
+}
+
+USA_house_medium_opposition = {
+	#
+}
+
+USA_senate_medium_support = {
+	#
+}
+
+USA_house_medium_support = {
+	#
+}
+
+USA_senate_large_opposition = {
+	#
+}
+
+USA_house_large_opposition = {
+	#
+}
+
+USA_senate_large_support = {
+	#
+}
+
+USA_house_large_support = {
+	#
+}
+USA_congress_medium_opposition = {
+	#
+}
+
+USA_congress_large_opposition = {
+	#
+}
+USA_congress_small_support = {
+	#
+}
+
+USA_congress_medium_support = {
+	#
+}
+
+USA_congress_large_support = {
+	#
+}
+
+USA_election_senate = {
+	#
+}
+
+USA_election_house = {
+	#
+}
+
+USA_return_majority = {
+	#
+}
+
+USA_flip_support = {
+	#
+}
+
+USA_foreign_support_training_effect = {
+	#
+}
+
+USA_foreign_support_pilots_effect = {
+	#
+}
+
+USA_spawn_citizen_militia = {
+	#
+}
+
+USA_civil_war_order_weapons_get_factories = {
+	#
+}
+
+USA_recalc_congress_icon_frames = {
+	#
+}
+
+USA_calc_stars = {
+	#
+}
+
+USA_naval_mutinies_effect = {
+	#	
+}
+
+USA_set_president_effect = {
+	#
+}

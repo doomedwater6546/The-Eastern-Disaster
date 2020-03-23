@@ -1,0 +1,38 @@
+SS_set_templates = {
+	#
+}
+
+SS_motorised_division = {
+	#
+}
+SS_mechanised_division_early = {
+	#
+}
+
+SS_mechanised_division_late = {
+	#
+}
+
+SS_armored_division_early = {
+	#
+}
+
+SS_armored_division_improved = {
+	#
+}
+
+SS_armored_division_late = {
+	#
+}
+
+SS_infantry_division = {
+	#
+}
+
+SS_resolve_effects_wehrmacht = {
+	#
+}
+
+SS_resolve_effects_ss = {
+	#
+}

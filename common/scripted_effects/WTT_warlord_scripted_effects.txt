@@ -1,0 +1,15 @@
+PRC_soviet_tribute_clear_all = {
+	#
+}
+
+PRC_soviet_tribute_level_up = {
+	#
+}
+
+PRC_soviet_tribute_level_down = {
+	#
+}
+
+warlord_rule_all_parties = {
+	#
+}

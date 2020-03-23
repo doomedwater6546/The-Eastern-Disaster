@@ -1,0 +1,15 @@
+GER_mefo_bills_level_up = {
+	#
+}
+
+GER_remove_mefo_bills = {
+	#
+}
+
+GER_mefo_bills_level_down = {
+	#
+}
+
+give_SOV_armor_research_bonuses = {
+	#
+}
