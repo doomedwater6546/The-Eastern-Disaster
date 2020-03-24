@@ -4,18 +4,6 @@ oob = "YUG_1936"
 
 set_research_slots = 3
 
-if = {
-	limit = {
-		has_dlc = "Death or Dishonor"
-	}
-	add_ideas = {
-		#
-	}
-}
-add_ideas = {
-	#
-}
-
 set_technology = {
 	tech_support = 1		
 	tech_engineers = 1
@@ -31,8 +19,6 @@ set_technology = {
 	early_submarine = 1
 	superior_firepower = 1
 }
-
-
 
 set_convoys = 10
 

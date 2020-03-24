@@ -44,12 +44,6 @@ set_technology = {
 }
 set_convoys = 25
 
-if = {
-	limit = { has_dlc = "Together for Victory" }
-
-	add_to_tech_sharing_group = commonwealth_research
-}
-
 set_politics = {
 	ruling_party = paternal_autocrat
 	last_election = "1888.15.6"

@@ -8,11 +8,6 @@ set_technology = {
 	
 }
 
-if = {
-	limit = { has_dlc = "Waking the Tiger" }
-	#
-}
-
 set_convoys = 5
 
 

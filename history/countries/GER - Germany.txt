@@ -45,8 +45,6 @@ set_technology = {
 
 
 
-set_variable = { var = wehrmacht_anger value = 0 }
-set_variable = { var = ss_anger value = 0 }
 set_research_slots = 4
 set_convoys = 200
 set_stability = 0.75 
