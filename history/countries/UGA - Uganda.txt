@@ -17,11 +17,10 @@ set_politics = {
 set_popularities = {
 	marxist = 9
 	libertarian_socialist = 10
-	democratic_socialist = 81
 	social_democrat = 0
 	liberalist = 0
 	conservative = 0
 	authoritarian_democrat = 0
-	paternal_autocrat = 0
+	paternal_autocrat = 81
 	national_populist = 0
 }
