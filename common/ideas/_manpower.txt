@@ -94,7 +94,7 @@ ideas = {
 			modifier = {
 				conscription = 0.025
 				}
-			}
+			
 			
 			cancel_if_invalid = no
 		}
